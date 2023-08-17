@@ -1,0 +1,11 @@
+.project_card:hover{
+    transition: 300ms ease-in-out;
+    background-color: #dbdbdb;
+}
+.project_card{
+    padding-top:16px;
+    text-decoration: none;
+}
+.text-highlight{
+    color:rgb(1, 192, 196);
+}
